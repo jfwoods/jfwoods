@@ -1,22 +1,18 @@
-### Hi there 👋 I'm Eric
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eric--andrechek-blue)](https://www.linkedin.com/in/eric-andrechek/) [![Email](https://img.shields.io/badge/Email-ericandrechek@gmail.com-blue)](mailto:ericandrechek@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-eric__andrechek-blue)](https://www.instagram.com/eric_andrechek/) [![Twitter](https://img.shields.io/badge/Twitter-EricAndrechek-blue)](https://twitter.com/EricAndrechek) ![Discord](https://img.shields.io/badge/Discord-eric1100-blue) ![Profile visits](https://komarev.com/ghpvc/?username=EricAndrechek)
+### Hi there 👋 My name is John Woods, but everyone calls me Jack.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-john--woods-blue)](https://www.linkedin.com/in/johnfwoods/) [![Email](https://img.shields.io/badge/Email-jfwoods@umich.edu-blue)](mailto:jfwoods@umich.edu) ![Discord](https://img.shields.io/badge/Discord-professorWoods-blue) ![Profile visits](https://komarev.com/ghpvc/?username=jfwoods)
 
 ---
 
-Studying Computer Science Engineering and pursuing minors in Electrical Engineering and Entrepreneurship at the University of Michigan. Go Blue! 〽️
+I am studying Aerospace Engineering and pursuing a minor in Electrical Engineering at the University of Michigan. Hail to the victors! 〽️ Outside of class, I work on [MRacing](https://www.mracing.engin.umich.edu/), Michigan's Formula Student team, as the Drivetrain Director. I also work as an Instructional Aide for the Rocket Science section of ENGR 100. More on that [here.](https://github.com/engin100/980) I also work on a research project designing a high-altitude student weather balloon tracking system with [Eric Andrechek](https://github.com/EricAndrechek) and advised by the fantastic [Aaron Ridley](https://github.com/aaronjridley). 
 
-Proud GNU/Linux user and avid tinkerer. If it ain't broke, it will be soon.
 
-I’m currently working on (/procrastinating working on...):
-- [homebridge-display](https://github.com/EricAndrechek/homebridge-display)
-- [Fermi Questions](https://github.com/EricAndrechek/FermiQuestions)
-- [High Altitude Weather Balloon Tracker Software Suite](https://github.com/EricAndrechek/trackuino-v2)
-- [Code for the Solar Car Challenge](https://www.solarcarchallenge.org/challenge/)
-- [MultiViewer](https://multiviewer.app/) [StreamDeck](https://github.com/f1-tools/MVF1-Streamdeck) and [Mobile App]()
-- Homework? (optional)
+Current (not classified) projects include (but are not limited to...):
+- [ENGR100-980 (Intro Rocket Science)](https://980.engr100.org/)
+- Balloon Tracking Project circuit boards (check out my portfolio for pictures of these)
+- DIY recycled battery bank (repo coming soon!)
 
-Currently, I am open to work for Summer of 2024. Shoot me an email or connect with me [on LinkedIn](https://www.linkedin.com/in/eric-andrechek/)!
+I'm always looking for work, new collaborators, and anything else remotely interesting. If you have any person, project, or idea that meets these criteria, feel free to shoot me an email.
 
 
 <!-- ignore this plz, I'm just trying to track you -->
-![](https://hit.yhype.me/github/profile?user_id=35144594)
+![](https://hit.yhype.me/github/profile?user_id=113313601)
