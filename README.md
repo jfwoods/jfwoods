@@ -3,7 +3,7 @@
 
 ---
 
-I am studying Aerospace Engineering and pursuing a minor in Electrical Engineering at the University of Michigan. Hail to the victors! 〽️ Outside of class, I work on [MRacing](https://www.mracing.engin.umich.edu/), Michigan's Formula Student team, as the Drivetrain Director. I also work as an Instructional Aide for the Rocket Science section of ENGR 100. More on that [here.](https://github.com/engin100/980) I also work on a research project designing a high-altitude student weather balloon tracking system with [Eric Andrechek](https://github.com/EricAndrechek) and advised by the fantastic [Aaron Ridley](https://github.com/aaronjridley). 
+I am studying Electrical Engineering at the University of Michigan. Hail to the victors! 〽️ Outside of class, I work on [MRacing](https://www.mracing.engin.umich.edu/), Michigan's Formula Student team, as the Drivetrain Director. I also work as an Instructional Aide for the Rocket Science and Weather Balloon sections of ENGR 100. More on that [here.](https://github.com/engin100/980) I also work on a research project designing a high-altitude student weather balloon tracking system with [Eric Andrechek](https://github.com/EricAndrechek) and advised by the fantastic [Aaron Ridley](https://github.com/aaronjridley). 
 
 
 Current (not classified) projects include (but are not limited to...):
