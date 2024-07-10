@@ -3,12 +3,13 @@
 
 ---
 
-I am studying Electrical Engineering at the University of Michigan. Hail to the victors! 〽️ Outside of class, I work on [MRacing](https://www.mracing.engin.umich.edu/), Michigan's Formula Student team, as the Drivetrain Director. I also work as an Instructional Aide for the Rocket Science and Weather Balloon sections of ENGR 100. More on that [here.](https://github.com/engin100/980) I also work on a research project designing a high-altitude student weather balloon tracking system with [Eric Andrechek](https://github.com/EricAndrechek) and advised by the fantastic [Aaron Ridley](https://github.com/aaronjridley). 
+I am studying Electrical Engineering at the University of Michigan. Hail to the victors! 〽️ Outside of class, I work on [MRacing](https://www.mracing.engin.umich.edu/), Michigan's Formula Student team, and was the 2024 Drivetrain Director. I also work as an Instructional Aide for the Rocket Science and Weather Balloon sections of ENGR 100. More on that [here.](https://github.com/engin100/980) I also work on a research project designing a high-altitude student weather balloon tracking system with [Eric Andrechek](https://github.com/EricAndrechek) and advised by the fantastic [Aaron Ridley](https://github.com/aaronjridley). 
 
 
-Current (not classified) projects include (but are not limited to...):
+Current projects include (but are not limited to...):
 - [ENGR100-980 (Intro Rocket Science)](https://980.engr100.org/)
 - Balloon Tracking Project circuit boards (check out my portfolio for pictures of these)
+- Cooking stuff up with Wave RF
 - DIY recycled battery bank (repo coming soon!)
 
 I'm always looking for work, new collaborators, and anything else remotely interesting. If you have any person, project, or idea that meets these criteria, feel free to shoot me an email.
