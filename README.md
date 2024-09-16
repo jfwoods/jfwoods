@@ -3,7 +3,7 @@
 
 ---
 
-I am studying Electrical Engineering at the University of Michigan. Hail to the victors! 〽️ Outside of class, I work on [MRacing](https://www.mracing.engin.umich.edu/), Michigan's Formula Student team, and was the 2024 Drivetrain Director. I also work as an Instructional Aide for the Rocket Science and Weather Balloon sections of ENGR 100. More on that [here.](https://github.com/engin100/980) I also work on a research project designing a high-altitude student weather balloon tracking system with [Eric Andrechek](https://github.com/EricAndrechek) and advised by the fantastic [Aaron Ridley](https://github.com/aaronjridley). 
+I am studying Electrical Engineering at the University of Michigan. Hail to the victors! 〽️ Outside of class, I co-founded [Wave RF](https://wave-rf.com), an RF technology company on a mission to simplify the metaphorical labyrinth that is RF technology. I also work on [MRacing](https://www.mracing.engin.umich.edu/), Michigan's Formula Student team, and was the 2024 Drivetrain Director. I also work as an Instructional Aide for the Rocket Science and Weather Balloon sections of ENGR 100. More on that [here.](https://github.com/engin100/980) I also work on a research project designing a high-altitude student weather balloon tracking system with [Eric Andrechek](https://github.com/EricAndrechek) and advised by the fantastic [Aaron Ridley](https://github.com/aaronjridley). 
 
 
 Current projects include (but are not limited to...):
