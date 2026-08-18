@@ -1,5 +1,5 @@
 ### EE Undergrad @ UMich, Co-Founder & CEO @ Wave RF, Chronically Curious
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-john--woods-blue)](https://www.linkedin.com/in/johnfwoods/) [![Email](https://img.shields.io/badge/Email-jfwoods@umich.edu-blue)](mailto:jfwoods@umich.edu) ![Discord](https://img.shields.io/badge/Discord-professorWoods-blue) ![Profile visits](https://komarev.com/ghpvc/?username=jfwoods)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-john--woods-blue)](https://www.linkedin.com/in/johnfwoods/) [![Email](https://img.shields.io/badge/Email-jfwoods@umich.edu-blue)](mailto:jfwoods@umich.edu) ![Discord](https://img.shields.io/badge/Discord-professorWoods-blue)
 
 ---
 ### Hi!
